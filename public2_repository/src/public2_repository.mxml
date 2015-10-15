@@ -6,5 +6,6 @@
 	<s:Label id="firstLabel"/>
 	<s:Label id="secondLabel"/>
 	<s:Label id="thirdLabel"/>
+	<s:Label id="fourthLabel"/>
 	
 </s:WindowedApplication>
